@@ -77,6 +77,7 @@ Prettier
 Simple React Snippets
 SynthWave '84
 Tailwind CSS IntelliSense
+Git Extension Pack
 
 ### Bashrc
 alias erc='nano ~/.bashrc'
