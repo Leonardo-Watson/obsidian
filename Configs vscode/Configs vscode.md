@@ -64,7 +64,7 @@
 }
 ```
 
-### Extensões
+#### Extensões
 
 Material Icon
 Color Highlights
@@ -79,7 +79,8 @@ SynthWave '84
 Tailwind CSS IntelliSense
 Git Extension Pack
 
-### Bashrc
+#### Bashrc
+
 alias erc='nano ~/.bashrc'
 alias rrc='source ~/.bashrc'
 alias dev='npm run dev'
@@ -91,3 +92,16 @@ alias gll='git pull'
 alias rgql='git restore ./src/gql'
 alias clone='git clone'
 alias gfront='git checkout frontend-changes'
+
+#### Editor Config
+
+Uma padronização para garantir uma configuração padrão para todo o código.
+
+*Exemplo:*
+![[Pasted image 20241221233016.png]]
+
+#### Scripts Package.json
+
+Adicionar scripts/encurtadores para serem usados no terminal seja para rodar manualmente ou utilizar em testes futuros. *(Parecido com o bashrc)*
+
+![[Pasted image 20241221235009.png]]
